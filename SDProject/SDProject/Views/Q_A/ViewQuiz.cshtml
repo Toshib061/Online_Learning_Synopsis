@@ -1,0 +1,62 @@
+﻿@model List<OLS.Models.Q_A>
+
+@{
+    ViewBag.Title = "ViewQuiz";
+}
+
+
+<body style="background-color:#D3D3D3"
+      @using (Html.BeginForm()) { @Html.AntiForgeryToken()   <div class="mx-auto wrapper login-box " style="width:1000px; background-color:white;background-image: url('../Images/insideBox.jpg')">
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                @*
+                    @Html.HiddenFor(Model => Model[i].quiz_id)
+                    @Html.HiddenFor(Model => Model[i].question_num)
+                    @Html.HiddenFor(Model => Model[i].correct_ans)
+                *@
+                <div class="form-group">
+
+                    <div class="col-md-10">
+                        <label>
+                            @Html.DisplayFor(Model => Model[i].question_num, new { htmlAttributes = new { @class = "control-label col-md-2" } })<span>. </span>
+                            @Html.DisplayFor(Model => Model[i].question, new { htmlAttributes = new { @class = "control-label col-md-2" } })
+                        </label>
+                    </div>
+                </div>
+
+                for (int j = 0; j < 4; j++)
+                {
+                    <div class="form-group">
+                        <div class="col-md-10">
+
+                            @Html.RadioButtonFor(Model => Model[i].user_answer, Convert.ToChar(65 + j), new { id = i.ToString() })
+                            @Html.DisplayFor(Model => Model[i].options_arr[j], new { htmlAttributes = new { @class = "form-control" } })
+                            <script src="~/Scripts/jquery-3.3.1.js"></script>
+                            <script>
+                                $(':radio:not(:checked)').attr('disabled', true);
+                            </script>
+                            @Html.ValidationMessageFor(Model => Model[i].options_arr[j], "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                }
+
+                if (Model[i].correct_ans == Model[i].user_answer)
+                {
+                    <span class="badge badge-success">The correct answer is option: <label> @Html.DisplayFor(Model => Model[i].correct_ans, new { htmlAttributes = new { @class = "form-control" } }) <span><img src="~/Images/ok.png" width="24px" style="margin-left:30px"></span></label></span>
+                }
+                else
+                {
+                    <span class="badge badge-danger">The correct answer is option: <label> @Html.DisplayFor(Model => Model[i].correct_ans, new { htmlAttributes = new { @class = "form-control" } }) <span><img src="~/Images/notok.png" width="24px" style="margin-left:30px"></span></label></span>
+                }
+                <br /><br /><br />
+            }
+        </div><hr />
+
+        </div>
+        }
+
+    </body>

@@ -1,0 +1,242 @@
+H:\SDFInal\SDProject\SDProject\bin\SDProject.dll.config
+H:\SDFInal\SDProject\SDProject\bin\SDProject.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.pdb
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csc.exe
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csc.exe.config
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csc.rsp
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csi.exe
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csi.exe.config
+H:\SDFInal\SDProject\SDProject\bin\roslyn\csi.rsp
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.Managed.Core.targets
+H:\SDFInal\SDProject\SDProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.AppContext.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Collections.Immutable.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Console.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.IO.Compression.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.IO.FileSystem.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.IO.Pipes.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Reflection.Metadata.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.AccessControl.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Claims.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Security.Principal.Windows.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.ValueTuple.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Xml.XmlDocument.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Xml.XPath.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\SDFInal\SDProject\SDProject\bin\roslyn\vbc.exe
+H:\SDFInal\SDProject\SDProject\bin\roslyn\vbc.exe.config
+H:\SDFInal\SDProject\SDProject\bin\roslyn\vbc.rsp
+H:\SDFInal\SDProject\SDProject\bin\roslyn\VBCSCompiler.exe
+H:\SDFInal\SDProject\SDProject\bin\roslyn\VBCSCompiler.exe.config
+H:\SDFInal\SDProject\SDProject\bin\EntityFramework.dll
+H:\SDFInal\SDProject\SDProject\bin\EntityFramework.SqlServer.dll
+H:\SDFInal\SDProject\SDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SDFInal\SDProject\SDProject\bin\Microsoft.Web.Infrastructure.dll
+H:\SDFInal\SDProject\SDProject\bin\Newtonsoft.Json.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Net.Http.Formatting.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Helpers.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Http.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Http.WebHost.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Mvc.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Razor.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.Deployment.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.Razor.dll
+H:\SDFInal\SDProject\SDProject\bin\EntityFramework.xml
+H:\SDFInal\SDProject\SDProject\bin\EntityFramework.SqlServer.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Razor.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.Deployment.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Webpages.Razor.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Helpers.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Mvc.xml
+H:\SDFInal\SDProject\SDProject\bin\Newtonsoft.Json.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Net.Http.Formatting.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Http.xml
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Http.WebHost.xml
+H:\SDFInal\SDProject\SDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SDFInal\SDProject\SDProject\obj\Debug\SDProject.csprojAssemblyReference.cache
+H:\SDFInal\SDProject\SDProject\obj\Debug\SDProject.csproj.CoreCompileInputs.cache
+H:\SDFInal\SDProject\SDProject\obj\Debug\SDProject.csproj.CopyComplete
+H:\SDFInal\SDProject\SDProject\obj\Debug\SDProject.dll
+H:\SDFInal\SDProject\SDProject\obj\Debug\SDProject.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.DomainModels.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.DomainModels.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.DomainModels.dll.config
+H:\SDFInal\SDProject\SDProject\bin\Antlr3.Runtime.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ViewModels.dll
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Optimization.dll
+H:\SDFInal\SDProject\SDProject\bin\WebGrease.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ViewModels.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ViewModels.dll.config
+H:\SDFInal\SDProject\SDProject\bin\Antlr3.Runtime.pdb
+H:\SDFInal\SDProject\SDProject\bin\System.Web.Optimization.xml
+H:\SDFInal\SDProject\SDProject\bin\CommonServiceLocator.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ServiceLayer.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Abstractions.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Configuration.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Container.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Interception.Configuration.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Interception.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.Mvc5.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.RegistrationByConvention.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.ServiceLocation.dll
+H:\SDFInal\SDProject\SDProject\bin\Unity.WebApi.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.Repositories.dll
+H:\SDFInal\SDProject\SDProject\bin\AutoMapper.dll
+H:\SDFInal\SDProject\SDProject\bin\System.ValueTuple.dll
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ServiceLayer.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.ServiceLayer.dll.config
+H:\SDFInal\SDProject\SDProject\bin\CommonServiceLocator.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.Abstractions.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.Configuration.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.Container.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.Interception.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.Interception.Configuration.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.RegistrationByConvention.pdb
+H:\SDFInal\SDProject\SDProject\bin\Unity.ServiceLocation.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.Repositories.pdb
+H:\SDFInal\SDProject\SDProject\bin\SDProject.Repositories.dll.config
+H:\SDFInal\SDProject\SDProject\bin\AutoMapper.pdb
+H:\SDFInal\SDProject\SDProject\bin\AutoMapper.xml
+H:\SDFInal\SDProject\SDProject\bin\System.ValueTuple.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csc.exe
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csc.exe.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csc.rsp
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csi.exe
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csi.exe.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\csi.rsp
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.AppContext.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Collections.Immutable.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Console.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.IO.Compression.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.IO.FileSystem.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.IO.Pipes.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.AccessControl.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Claims.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.ValueTuple.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Xml.XPath.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\vbc.exe
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\vbc.exe.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\vbc.rsp
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\VBCSCompiler.exe
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\roslyn\VBCSCompiler.exe.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Antlr3.Runtime.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\CommonServiceLocator.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\EntityFramework.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\EntityFramework.SqlServer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Microsoft.Web.Infrastructure.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Newtonsoft.Json.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.DomainModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ServiceLayer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ViewModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Net.Http.Formatting.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Helpers.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Http.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Http.WebHost.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Mvc.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Optimization.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Razor.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.Deployment.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.Razor.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Abstractions.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Configuration.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Container.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Interception.Configuration.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Interception.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Mvc5.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.RegistrationByConvention.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.ServiceLocation.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.WebApi.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\WebGrease.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.Repositories.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\AutoMapper.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.ValueTuple.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.DomainModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.DomainModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ServiceLayer.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ServiceLayer.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ViewModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.ViewModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Antlr3.Runtime.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\CommonServiceLocator.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\EntityFramework.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\EntityFramework.SqlServer.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Optimization.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Abstractions.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Configuration.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Container.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Interception.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.Interception.Configuration.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.RegistrationByConvention.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Unity.ServiceLocation.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Razor.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.Deployment.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Webpages.Razor.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Helpers.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Mvc.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Newtonsoft.Json.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Net.Http.Formatting.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Http.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.Web.Http.WebHost.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.Repositories.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\SDProject.Repositories.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\AutoMapper.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\AutoMapper.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\bin\System.ValueTuple.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\obj\Debug\SDProject.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\obj\Debug\SDProject.csproj.CoreCompileInputs.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\obj\Debug\SDProject.csproj.CopyComplete
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\obj\Debug\SDProject.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject\obj\Debug\SDProject.pdb

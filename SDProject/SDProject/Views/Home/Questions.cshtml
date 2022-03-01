@@ -1,0 +1,32 @@
+﻿@model List<SDProject.ViewModels.QuestionViewModel>
+
+@{
+    ViewBag.Title = "Questions";
+}
+
+
+<body style="background-color:#D3D3D3">
+    <h1 style="margin-top:30px;margin-left:20px">Questions</h1>
+    <div class="row" style="margin-left:30px;margin-top:70px">
+        <div class="col-sm-12" s>
+            <table class="table">
+                @foreach (var item in Model)
+                {
+
+                    Html.RenderPartial("Question", item);
+                }
+            </table>
+            @if (Session["CurrentUserName"] != null)
+            {
+                <a href="/questions/create" class="btn btn-primary" style="margin-left:20px">Add Question</a>
+            }
+        </div>
+    </div>
+
+</body>
+
+<script>
+    $("a[href='/allquestions']").attr("id", "active");
+</script>
+
+

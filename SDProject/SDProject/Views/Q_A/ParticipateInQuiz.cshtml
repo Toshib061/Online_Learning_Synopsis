@@ -1,0 +1,61 @@
+﻿@model List<OLS.Models.Q_A>
+
+@{
+    ViewBag.Title = "ParticipateInQuiz";
+}
+
+<body style="background-color:#D3D3D3">
+    <h1 style="margin-left:40px;margin-top:40px">Participate In Quiz</h1>
+
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+    <div class="mx-auto wrapper login-box " style="width:1000px; background-color:white;background-image: url('../Images/insideBox.jpg')">
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                @Html.HiddenFor(Model => Model[i].quiz_id)
+                @Html.HiddenFor(Model => Model[i].correct_ans)
+                @Html.HiddenFor(Model => Model[i].question_num)
+                @Html.HiddenFor(Model => Model[i].question)
+                <div class="form-group">
+
+                    <div class="col-md-10">
+                        <label>
+                            @Html.DisplayFor(Model => Model[i].question_num)<span>. </span>
+                            @Html.DisplayFor(Model => Model[i].question)
+                        </label>
+                    </div>
+                </div>
+
+                for (int j = 0; j < 4; j++)
+                {
+                    <div class="form-group">
+                        <div class="col-md-10">
+
+                            @Html.RadioButtonFor(Model => Model[i].user_answer, Convert.ToChar(65 + j), new { id = i.ToString() })
+                            @Html.DisplayFor(Model => Model[i].options_arr[j], new { htmlAttributes = new { @class = "form-control" } })
+
+                            @Html.ValidationMessageFor(Model => Model[i].options_arr[j], "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                }
+                <br /><br /><br />
+            }
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Submit" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+        <br /><br /><hr />
+    </div>
+        }
+    </body>
+
+

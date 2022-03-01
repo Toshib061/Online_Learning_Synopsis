@@ -1,0 +1,111 @@
+﻿@model OLS.Models.Quiz
+
+@{
+    ViewBag.Title = "CreateQuiz";
+}
+
+
+
+<body style="background-color:#D3D3D3">
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <div class="mx-auto wrapper login-box " style="width:1000px; background-color:white;background-image: url('../Images/insideBox.jpg')">
+                <h4>Create Quiz</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @*
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.admin_id, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.admin_id, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.admin_id, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                *@
+                @Html.HiddenFor(model => model.admin_id)
+                @Html.HiddenFor(model => model.topic_id)
+                @*@Html.HiddenFor(model => model.duration)*@
+
+                @*<div class="form-group">
+                        @Html.LabelFor(model => model.topic_id, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.topic_id, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.topic_id, "", new { @class = "text-danger" })
+                        </div>
+                    </div>*@
+
+                <div class="form-group">
+                    <h3>@Html.DisplayFor(model => model.title)</h3>
+                </div>
+
+                @*<div class="form-group">
+                        @Html.LabelFor(model => model.duration, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.duration, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.duration, "", new { @class = "text-danger" })
+                        </div>
+                    </div>*@
+
+                @for (int i = 0; i < Convert.ToInt32(ViewData["QuestionCount"]); i++)
+                {
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.q_As[i].question, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.q_As[i].question, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.q_As[i].question, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    @*
+
+                    *@
+
+                    <div class="from-group">
+                        @for (int j = 0; j < 4; j++)
+                        {
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.q_As[i].options_arr[j], Convert.ToChar(65 + j) + ". ", htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.q_As[i].options_arr[j], new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.q_As[i].options_arr[j], "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.q_As[i].correct_ans, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @*@Html.EditorFor(model => model.q_As[i].correct_ans, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.q_As[i].correct_ans, "", new { @class = "text-danger" })
+                            *@
+
+                            @Html.DropDownListFor(model => model.q_As[i].correct_ans, new List<SelectListItem> { new SelectListItem { Text = "A", Value = "A" }, new SelectListItem { Text = "B", Value = "B" }, new SelectListItem { Text = "C", Value = "C" }, new SelectListItem { Text = "D", Value = "D" } }, "Select Correct Answer", new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.q_As[i].correct_ans, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <hr />
+                }
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Create" class="btn btn-default" />
+                    </div>
+                </div>
+                <h3>@ViewData["Message"]</h3>
+            </div>
+        </div>
+    }
+
+    </body>
+
+
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+

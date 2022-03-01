@@ -1,0 +1,30 @@
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.dll.config
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.dll
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.pdb
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.dll
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.dll
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.pdb
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.dll.config
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.xml
+H:\SDFInal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+H:\SDFInal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csprojAssemblyReference.cache
+H:\SDFInal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csproj.CoreCompileInputs.cache
+H:\SDFInal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csproj.CopyComplete
+H:\SDFInal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.dll
+H:\SDFInal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.Repositories.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\SDProject.DomainModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csproj.CoreCompileInputs.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.csproj.CopyComplete
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.Repositories\obj\Debug\SDProject.Repositories.pdb

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<OLS.Models.Quiz>
+
+@{
+    ViewBag.Title = "AllQuizzesAdmin";
+}
+
+<h1 style="margin-left:40px;margin-top:40px">Quiz List</h1>
+
+    <table  class="table" style="margin-top:30px;margin-left:40px">
+        <tr>
+            <th>
+                @Html.DisplayName("Topic")
+            </th>
+            <th>
+                @Html.DisplayName("Title")
+            </th>
+            <th>
+                @Html.DisplayName("Created On")
+            </th>
+            <th>
+                @Html.DisplayName("Created By")
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.topic_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.created_on)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.created_by)
+                </td>
+            </tr>
+        }
+
+    </table>

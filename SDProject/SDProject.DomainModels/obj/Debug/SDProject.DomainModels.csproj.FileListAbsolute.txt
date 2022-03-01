@@ -1,0 +1,24 @@
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.dll.config
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.dll
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.pdb
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.dll
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.xml
+H:\SDFInal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+H:\SDFInal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csproj.CoreCompileInputs.cache
+H:\SDFInal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csproj.CopyComplete
+H:\SDFInal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.dll
+H:\SDFInal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.pdb
+H:\SDFInal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\SDProject.DomainModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csproj.CoreCompileInputs.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.csproj.CopyComplete
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.DomainModels\obj\Debug\SDProject.DomainModels.pdb

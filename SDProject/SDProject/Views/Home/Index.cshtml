@@ -1,0 +1,72 @@
+﻿@model List<SDProject.ViewModels.QuestionViewModel>
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<body style="background-color:#D3D3D3">
+
+    @if (ViewData["message"] != null)
+    {
+        <div class="alert alert-warning alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>@ViewData["message"]
+        </div>
+    }
+    <div class="row">
+        <div class="col-sm-12">
+
+
+            <div class="jumbotron big-banner">
+                <div class="mainTextColor">
+
+                    <h1>Learn, Shared, Build!</h1>
+                    <h3>Each month, People come to OLS to learn, share their knowledge, and build their careers.</h3>
+                    <p class="lead">Join the OLS.</p>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-sm-12" style="margin-left:30px">
+        <table class="table">
+            @foreach (var item in Model)
+            {
+                Html.RenderPartial("Question", item);
+            }
+        </table>
+        @if (Session["CurrentUserName"] != null)
+        {
+            <a href="/questions/create" class="btn btn-primary" style="margin-left:20px">Add Question</a>
+        }
+    </div>
+</div>
+
+<script>
+    $("a[href='/home/index']").attr("id", "active");
+</script>
+
+

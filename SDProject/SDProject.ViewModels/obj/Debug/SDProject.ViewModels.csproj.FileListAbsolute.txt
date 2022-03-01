@@ -1,0 +1,24 @@
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.dll.config
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.dll
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.pdb
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.dll
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.xml
+H:\SDFInal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+H:\SDFInal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csprojAssemblyReference.cache
+H:\SDFInal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csproj.CoreCompileInputs.cache
+H:\SDFInal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csproj.CopyComplete
+H:\SDFInal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.dll
+H:\SDFInal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\SDProject.ViewModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csproj.CoreCompileInputs.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.csproj.CopyComplete
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ViewModels\obj\Debug\SDProject.ViewModels.pdb

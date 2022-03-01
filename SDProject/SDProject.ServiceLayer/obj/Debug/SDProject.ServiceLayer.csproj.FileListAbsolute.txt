@@ -1,0 +1,52 @@
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.dll.config
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.dll.config
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.xml
+H:\SDFInal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csprojAssemblyReference.cache
+H:\SDFInal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csproj.CoreCompileInputs.cache
+H:\SDFInal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csproj.CopyComplete
+H:\SDFInal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.dll.config
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\System.ValueTuple.dll
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.dll.config
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.pdb
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.xml
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\SDFInal\SDProject\SDProject.ServiceLayer\bin\Debug\System.ValueTuple.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ServiceLayer.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\System.ValueTuple.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.DomainModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.Repositories.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\SDProject.ViewModels.dll.config
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.pdb
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\AutoMapper.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\bin\Debug\System.ValueTuple.xml
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csprojAssemblyReference.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.csproj.CopyComplete
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.dll
+D:\DELL\Uni Stuffs\3.2\SD\FinalFinal\olsFinal\SDProject\SDProject.ServiceLayer\obj\Debug\SDProject.ServiceLayer.pdb
