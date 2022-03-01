@@ -50,11 +50,13 @@ Users - Ask Questions
 
 ---
 
-## Contributors   
+## Contributors 
+ ### Amin Ahmed Toshib
+   1. Responsive UI design of this Project.
  ### Anas Mohammad Anwar
    1. Backend program for the Quiz System i.e creating the quizzes and attending them.
    2. Backend program for the Users' Quiz History System.
- ### [Hasnath Jami Chowdhury](https://github.com/HasnathJami)
-   1. Responsive UI design for the full project.
-   2. Registration System.
-   3. Backend program for the Discussion/Problem Sharing (Q/A) System (Categorized), Voting System.
+ ### Hasnath Jami Chowdhury
+   1. Registration System.
+   2. Backend program for the Discussion/Problem Sharing (Q/A) System (Categorized), Voting System.
+ 
